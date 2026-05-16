@@ -159,7 +159,7 @@ jobs:
           - 针对 **兆能 ZN-M2** 深度定制 NSS 6.12 内核固件。
           - 🌐 默认地址: **192.168.2.1**
           - 🔑 默认密码: **none**
-          - 🚀 核心更新：移除 PassWall，替换为 **OpenClash**。
+          - 🚀 核心更新：**OpenClash**。
           - 🧹 稳定性已优化。
           - 🛠️ 包含插件：cpufreq, upnp, ddns, diskman。
           ### 🧊 固件版本
