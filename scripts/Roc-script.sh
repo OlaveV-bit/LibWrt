@@ -14,7 +14,6 @@ function git_sparse_clone() {
 }
 
 # 3. 移除所有不再需要的包源码 (根据 General.config 中 "未设置" 的项)
-# 特别确保移除 3cat 和 PassWall 相关
 rm -rf feeds/luci/applications/luci-app-3cat
 rm -rf feeds/luci/applications/luci-app-passwall
 rm -rf feeds/luci/applications/luci-app-smartdns
