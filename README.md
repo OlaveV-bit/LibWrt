@@ -8,12 +8,17 @@
 - **本固件禁止用于任何商业用途，请务必严格遵守国家互联网使用相关法律规定！**
 
 ## 项目说明
-- 默认管理地址：**`192.168.2.1`** 默认用户：**`root`** 默认密码：**`none`**
+- 默认管理地址：**`192.168.2.1`**，默认用户：**`root`**，默认密码：**`无`**
 
 ## 定制固件
 - 首先要登录 Github 账号，然后 Fork 此项目到你自己的 Github 仓库。
 - 修改 `configs` 目录对应的文件添加或删除插件，或者上传自己的 `xx.config` 配置文件。
 - 不需要的软件包请把 `y` 改成 `n` ，仅在前面添加 `#` 是无效的。
+- 插件对应名称及功能请参考恩山网友帖子：[OpenWrt软件包全量解释](https://www.right.com.cn/FORUM/forum.php?mod=viewthread&tid=8384897)。
 - 如需修改默认 IP、添加或删除插件包以及一些其他设置请在 `Roc-script.sh` 文件内修改。
 - 添加或修改 `xx.yml` 文件，最后点击 `Actions` 运行要编译的 `workflow` 即可开始编译。
-- 编译大概需要 1-2 小时，编译完成后在仓库主页 [Releases](https://github.com/OlaveV-bit/ZN-M2-LibWrt/releases) 对应 Tag 标签内下载固件。
+- 编译大概需要 1-2 小时，编译完成后在仓库主页 [Releases](https://github.com/OlaveV-bit/LibWrt/releases) 对应 Tag 标签内下载固件。
+
+## 页面预览
+![Homepage](Homepage.png)
+</div>
