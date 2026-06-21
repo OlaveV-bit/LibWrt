@@ -9,7 +9,6 @@
 
 ## 项目说明
 - 默认管理地址：**`192.168.2.1`**，默认用户：**`root`**，默认密码：**`无`**
-- [云编译来源](https://github.com/haiibo/OpenWrt) [视频教程](https://www.youtube.com/watch?v=6j4ofS0GT38) [问题合集](https://github.com/LiBwrt/openwrt-6.x/issues)
 
 ## 定制固件
 - 首先要登录 Github 账号，然后 Fork 此项目到你自己的 Github 仓库。
