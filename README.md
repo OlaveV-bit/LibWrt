@@ -9,6 +9,7 @@
 
 ## 项目说明
 - 默认管理地址：**`192.168.2.1`**，默认用户：**`root`**，默认密码：**`无`**
+- [云编译来源](https://github.com/haiibo/OpenWrt) [视频教程](https://www.youtube.com/watch?v=6j4ofS0GT38) [问题合集](https://github.com/LiBwrt/openwrt-6.x/issues)
 
 ## 定制固件
 - 首先要登录 Github 账号，然后 Fork 此项目到你自己的 Github 仓库。
@@ -18,4 +19,7 @@
 - 如需修改默认 IP、添加或删除插件包以及一些其他设置请在 `Roc-script.sh` 文件内修改。
 - 添加或修改 `xx.yml` 文件，最后点击 `Actions` 运行要编译的 `workflow` 即可开始编译。
 - 编译大概需要 1-2 小时，编译完成后在仓库主页 [Releases](https://github.com/OlaveV-bit/LibWrt/releases) 对应 Tag 标签内下载固件。
+
+## 页面预览
+![Homepage](Homepage.png)
 </div>
